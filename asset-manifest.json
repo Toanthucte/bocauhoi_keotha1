@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bocauhoi_keotha1/static/css/main.b536e8c4.css",
-    "main.js": "/bocauhoi_keotha1/static/js/main.048c289a.js",
+    "main.js": "/bocauhoi_keotha1/static/js/main.ab78d2df.js",
     "index.html": "/bocauhoi_keotha1/index.html",
     "main.b536e8c4.css.map": "/bocauhoi_keotha1/static/css/main.b536e8c4.css.map",
-    "main.048c289a.js.map": "/bocauhoi_keotha1/static/js/main.048c289a.js.map"
+    "main.ab78d2df.js.map": "/bocauhoi_keotha1/static/js/main.ab78d2df.js.map"
   },
   "entrypoints": [
     "static/css/main.b536e8c4.css",
-    "static/js/main.048c289a.js"
+    "static/js/main.ab78d2df.js"
   ]
 }
