@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Lòng Yêu Thương Của Phật Giáo",
+    "id": "q_1",
+    "type": "multiple-choice",
+    "questionText": "Theo bài học, lời dạy “Không nên giết hại chúng sinh” của Đức Phật xuất phát từ đâu?",
+    "options": [
+      "Từ kinh điển Đại thừa tại Trung Hoa",
+      "Từ kinh điển Pàli tại Tích Lan",
+      "Từ sách đạo đức phổ thông hiện đại"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Lời dạy này được lưu giữ trong kho tàng kinh điển nguyên thủy bằng tiếng Pàli tại Tích Lan.",
+  "image": "/quiz_images/quiz2/q1.jpeg"
+  },
+  {
+    "id": "q_2",
+    "type": "multiple-choice",
+    "questionText": "Mục đích chính của Đức Phật khi khuyên không nên giết hại chúng sinh là gì?",
+    "options": [
+      "Để bảo vệ môi trường tự nhiên",
+      "Vì thương xót chúng sinh và muốn con người tránh quả khổ",
+      "Để mọi người ăn chay theo đạo Phật"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Đức Phật thương loài người như cha thương con một, muốn tránh cho họ nhân quả ác và quả khổ đau.",
+  "image": "/quiz_images/quiz2/q2.jpeg"
+  },
+  {
+    "id": "q_3",
+    "type": "multiple-choice",
+    "questionText": "Hành vi giết hại chúng sinh để ăn thịt sẽ dẫn đến hậu quả gì?",
+    "options": [
+      "Được khỏe mạnh hơn vì ăn đủ chất",
+      "Được thần linh bảo vệ nếu cúng tế đầy đủ",
+      "Gieo nhân ác nên phải chịu khổ đau từ đời này sang đời khác"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Theo luật nhân quả, giết hại là hành vi ác dẫn đến quả khổ đau kéo dài nhiều đời.",
+  "image": "/quiz_images/quiz2/q3.jpeg"
+  },
+  {
+    "id": "q_4",
+    "type": "multiple-choice",
+    "questionText": "Đức Phật nói: “Nước mắt chúng sinh nhiều hơn nước biển” là để nhấn mạnh điều gì?",
+    "options": [
+      "Chúng sinh khóc vì tình cảm tan vỡ",
+      "Sự khổ đau vô tận của chúng sinh do vô minh và tạo ác nghiệp",
+      "Cảm xúc của chúng sinh rất phong phú"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Câu này thể hiện lòng thương xót và cái nhìn xuyên suốt nhân quả của Đức Phật về nỗi khổ triền miên của chúng sinh.",
+  "image": "/quiz_images/quiz2/q4.jpeg"
+  },
+  {
+    "id": "q_5",
+    "type": "multiple-choice",
+    "questionText": "Từ góc nhìn nhân quả, điều gì tạo nên khổ đau?",
+    "options": [
+      "Do số phận an bài",
+      "Do nghiệp lực từ kiếp trước",
+      "Do con người tạo ra nhân ác"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Bài học nhấn mạnh rõ: từ nhân ác (như giết hại) thì gặt lấy quả khổ đau.",
+  "image": "/quiz_images/quiz2/q5.jpeg"
+  },
+  {
+    "id": "q_6",
+    "type": "multiple-choice",
+    "questionText": "Theo bài giảng, vì sao người đời hiểu sai các pháp là thường hằng?",
+    "options": [
+      "Vì trình độ học thức thấp",
+      "Vì mê tín dị đoan",
+      "Vì vô minh không hiểu rõ sự thay đổi liên tục của các pháp"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Sự chấp ngã và không hiểu vô thường là nguyên nhân dẫn đến hành vi sai trái và tạo nghiệp.",
+  "image": "/quiz_images/quiz2/q6.jpeg"
+  },
+  {
+    "id": "q_7",
+    "type": "multiple-choice",
+    "questionText": "Tinh thần đạo đức cốt lõi được rèn luyện trong giới “Không nên giết hại chúng sinh” là gì?",
+    "options": [
+      "Đức Hiếu Sinh",
+      "Đức Nhẫn Nhịn",
+      "Đức Khiêm Tốn"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Đức Hiếu Sinh là lòng thương yêu sự sống – là nền tảng nhân cách đầu tiên trong Ngũ Giới.",
+  "image": "/quiz_images/quiz2/q7.jpeg"
+  },
+  {
+    "id": "q_8",
+    "type": "multiple-choice",
+    "questionText": "Đức Hiếu Sinh có nghĩa là gì?",
+    "options": [
+      "Chăm sóc người già và trẻ nhỏ",
+      "Thương yêu mọi sự sống trên hành tinh",
+      "Từ bỏ của cải để bố thí"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Bài học định nghĩa rõ ràng: Đức Hiếu Sinh là lòng thương yêu sự sống của tất cả loài hữu tình.",
+  "image": "/quiz_images/quiz2/q8.jpeg"
+  },
+  {
+    "id": "q_9",
+    "type": "multiple-choice",
+    "questionText": "Khi con người chạy theo dục lạc vật chất, điều gì sẽ xảy ra?",
+    "options": [
+      "Họ sẽ được giàu có và hạnh phúc",
+      "Họ có thể bị tổn thương cảm xúc",
+      "Họ sẽ tạo nhiều tội lỗi và tội ác do tham ái"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Bài học cho thấy sự chấp thủ vào vật chất khiến con người phạm phải nhiều điều ác.",
+  "image": "/quiz_images/quiz2/q9.jpeg"
+  },
+  {
+    "id": "q_10",
+    "type": "multiple-choice",
+    "questionText": "Người có lòng thương yêu rộng lớn là người như thế nào?",
+    "options": [
+      "Người sống cô đơn và an tịnh",
+      "Người có được hạnh phúc nhất trần gian",
+      "Người dễ bị tổn thương"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Kết bài nhấn mạnh: người có lòng yêu thương rộng lớn là người có nhiều hạnh phúc nhất trần gian.",
+  "image": "/quiz_images/quiz2/q10.jpeg"
+  }
+]

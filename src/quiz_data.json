@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Nghi Lễ của Niệm Phật",
+    "id": "q_1",
+    "type": "multiple-choice",
+    "questionText": "Khi giảng viên bước vào lớp, tất cả tu sinh phải làm gì?",
+    "options": [
+      "Ngồi yên và chắp tay",
+      "Đứng dậy, mặt hướng về giảng viên",
+      "Đứng dậy, mặt hướng về tượng Phật"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Theo nghi lễ, khi giảng viên bước vào, tất cả tu sinh đều đứng dậy, mặt hướng về tượng Phật để bày tỏ sự tôn kính.",
+    "image": "/quiz_images/quiz/q1.jpeg"
+  },
+  {
+    "id": "q_2",
+    "type": "multiple-choice",
+    "questionText": "Mục đích của việc niệm \"Nam Mô Bổn Sư Thích Ca Mâu Ni Phật\" ba lần là gì?",
+    "options": [
+      "Để bắt đầu giờ học có không khí trang nghiêm",
+      "Để thể hiện lòng biết ơn và cung kính đối với đức Phật",
+      "Để tạo âm thanh đồng thanh cho dễ nhớ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "niệm Phật ba lần mang ý nghĩa thể hiện lòng biết ơn sâu sắc và sự cung kính tôn trọng đối với đức Phật.",
+  "image": "/quiz_images/quiz/q2.jpeg"
+  },
+  {
+    "id": "q_3",
+    "type": "multiple-choice",
+    "questionText": "Vì sao giảng viên đọc \"NAM … MÔ\" trước, rồi tu sinh đọc tiếp chữ \"MÔ\"?",
+    "options": [
+      "Để tu sinh không đọc sai niệm",
+      "Để tránh đọc trùng nhau",
+      "Để mọi người bắt nhịp đồng đều"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Việc giảng viên đọc \"NAM … MÔ\" rồi tu sinh nối tiếp giúp mọi người cùng bắt một nhịp, đảm bảo sự đồng thanh và trang nghiêm.",
+  "image": "/quiz_images/quiz/q3.jpeg"
+  },
+  {
+    "id": "q_4",
+    "type": "multiple-choice",
+    "questionText": "Sau khi niệm Phật, giảng viên và tu sinh làm gì tiếp theo?",
+    "options": [
+      "Ngồi xuống liền",
+      "Xá tượng Phật và xá hình Trưởng Lão",
+      "Mở bài học ngay"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sau khi niệm Phật xong, mọi người thực hiện nghi thức xá tượng Phật và xá hình Trưởng Lão như một cách bày tỏ lòng kính trọng.",
+  "image": "/quiz_images/quiz/q4.jpeg"
+  },
+  {
+    "id": "q_5",
+    "type": "multiple-choice",
+    "questionText": "niệm Phật được giữ lại trong nghi lễ với lý do gì?",
+    "options": [
+      "Vì ngắn gọn, dễ nhớ",
+      "Vì phù hợp với nghi lễ truyền thống",
+      "Vì mang đầy đủ ý nghĩa về lòng biết ơn và tôn kính"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Dù nghi lễ đơn giản, nhưng niệm Phật vẫn được giữ lại vì mang ý nghĩa rất sâu sắc. thể hiện lòng biết ơn và tôn kính đức Phật.",
+  "image": "/quiz_images/quiz/q5.jpeg"
+  },
+  {
+    "id": "q_6",
+    "type": "multiple-choice",
+    "questionText": "Trong buổi học đầu tiên, giảng viên cần làm gì thêm sau phần nghi lễ?",
+    "options": [
+      "Bắt đầu bài học ngay",
+      "Giải thích thêm về ý nghĩa nghi lễ",
+      "Nhắc nhở tu sinh học thuộc nghi lễ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Trong buổi đầu, giảng viên cần giải thích thêm ý nghĩa nghi lễ để tu sinh hiểu rõ và thực hành đúng.",
+  "image": "/quiz_images/quiz/q6.jpeg"
+  },
+  {
+    "id": "q_7",
+    "type": "multiple-choice",
+    "questionText": "Nếu tu sinh đến trễ khi nghi lễ đang diễn ra thì nên làm gì?",
+    "options": [
+      "Ngồi ngay vào chỗ không cần tham gia",
+      "Tham gia ngay phần đang thực hiện và hòa vào nhịp chung",
+      "Chờ nghi lễ xong mới vào chỗ ngồi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tu sinh đến trễ nên nhanh chóng tham gia phần đang diễn ra để thể hiện tinh thần hoà hợp và tôn trọng nghi lễ.",
+  "image": "/quiz_images/quiz/q7.jpeg"
+  }
+]

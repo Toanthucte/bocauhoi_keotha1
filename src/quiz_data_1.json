@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Bài Mở Đầu",
+    "id": "q_1",
+    "type": "multiple-choice",
+    "questionText": "Mục tiêu chính của việc dựng lại chánh pháp Phật giáo là gì?",
+    "options": [
+      "Giảng dạy thật nhiều bài kinh Nikaya",
+      "Cho tu sinh học thuộc lòng kinh điển",
+      "Biên soạn giáo án đạo đức để rèn luyện nhân cách"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Việc dựng lại chánh pháp không phải chỉ giảng kinh suông mà phải thông qua việc biên soạn giáo án đạo đức, giúp tu sinh rèn luyện nhân cách sống không làm khổ mình, khổ người.",
+  "image": "/quiz_images/quiz1/q1.jpeg"
+  },
+  {
+    "id": "q_2",
+    "type": "multiple-choice",
+    "questionText": "Những lớp học căn bản trước khi học Bát Chánh Đạo là gì?",
+    "options": [
+      "Bát Chánh Đạo, Lục Độ Ba La Mật, Tứ Niệm Xứ",
+      "Tam Quy, Ngũ Giới, Thập Thiện, Bát Quan Trai",
+      "Ngũ Uẩn, Tứ Diệu Đế, Thập Nhị Nhân Duyên"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Đây là những lớp đạo đức nền tảng để cư sĩ rèn luyện trước khi bước vào tu học các lớp Bát Chánh Đạo.",
+  "image": "/quiz_images/quiz1/q2.jpeg"
+  },
+  {
+    "id": "q_3",
+    "type": "multiple-choice",
+    "questionText": "Hậu quả của việc tu học Bát Chánh Đạo mà không có nền tảng đạo đức là gì?",
+    "options": [
+      "Dễ bị phiền não",
+      "Không hiểu giáo lý sâu xa",
+      "Bị ức chế tâm khi tu thiền định"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Trưởng Lão nêu rõ rằng nếu chưa học các lớp căn bản mà tu học Bát Chánh Đạo thì sẽ bị mất căn bản, dẫn đến bị ức chế tâm trong thiền định.",
+  "image": "/quiz_images/quiz1/q3.jpeg"
+  },
+  {
+    "id": "q_4",
+    "type": "multiple-choice",
+    "questionText": "Trong Ngũ Giới, đức hiếu sinh thuộc về loại đạo đức nào?",
+    "options": [
+      "Đạo đức xã hội",
+      "Đạo đức bản thân",
+      "Đạo đức gia đình"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Đức hiếu sinh – lòng thương yêu sự sống – là đạo đức bản thân.",
+  "image": "/quiz_images/quiz1/q4.jpeg"
+  },
+  {
+    "id": "q_5",
+    "type": "multiple-choice",
+    "questionText": "Đức ly tham thuộc loại đạo đức nào?",
+    "options": [
+      "Đạo đức xã hội",
+      "Đạo đức gia đình",
+      "Đạo đức bản thân"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Vì hành vi trộm cắp xuất phát từ tâm tham và ảnh hưởng đến chính nhân cách người đó, nên nó thuộc về đạo đức bản thân.",
+  "image": "/quiz_images/quiz1/q5.jpeg"
+  },
+  {
+    "id": "q_6",
+    "type": "multiple-choice",
+    "questionText": "Đức thành thật thuộc về đạo đức nào?",
+    "options": [
+      "Đạo đức bản thân",
+      "Đạo đức xã hội",
+      "Đạo đức gia đình"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Lời nói dối và tráo trở ảnh hưởng trực tiếp đến lòng tin trong cộng đồng và các mối quan hệ xã hội.",
+  "image": "/quiz_images/quiz1/q6.jpeg"
+  },
+  {
+    "id": "q_7",
+    "type": "multiple-choice",
+    "questionText": "Đức chung thủy trong Ngũ Giới thuộc về lĩnh vực đạo đức nào?",
+    "options": [
+      "Đạo đức xã hội",
+      "Đạo đức bản thân",
+      "Đạo đức gia đình"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Đức chung thủy là không gian díu với người khác – thuộc đạo đức gia đình.",
+  "image": "/quiz_images/quiz1/q7.jpeg"
+  },
+  {
+    "id": "q_8",
+    "type": "multiple-choice",
+    "questionText": "Đức minh mẫn nhằm rèn luyện điều gì?",
+    "options": [
+      "Không mê tín dị đoan",
+      "Không nghiện ngập, say sưa",
+      "Không phạm giới trọng"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Đức minh mẫn là không say rượu, không nghiện ngập (rượu chè, thuốc lá, thuốc phiện...), giúp giữ sự tỉnh táo và sáng suốt."
+  ,"image": "/quiz_images/quiz1/q8.jpeg"
+  },
+  {
+    "id": "q_9",
+    "type": "multiple-choice",
+    "questionText": "Việc biên soạn giáo án và đứng lớp có ý nghĩa gì?",
+    "options": [
+      "Giữ gìn truyền thống tụng kinh",
+      "Tạo điều kiện cho người tu đọc kinh nhiều hơn",
+      "Chấn chỉnh Phật giáo, phục hồi đạo đức nhân bản - nhân quả"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Việc soạn giáo án là để chấn chỉnh lại đạo đức của Phật giáo theo tinh thần nhân bản - nhân quả."
+  ,"image": "/quiz_images/quiz1/q9.jpeg"
+  },
+  {
+    "id": "q_10",
+    "type": "multiple-choice",
+    "questionText": "Ngũ Giới rèn luyện con người qua những hành động nào?",
+    "options": [
+      "Hành động thân và khẩu",
+      "Thân, khẩu và ý",
+      "Ý và tâm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ngũ Giới được thực hiện qua ba nghiệp: thân, miệng (khẩu), và ý."
+  ,"image": "/quiz_images/quiz1/q10.jpeg"
+  },
+  {
+    "id": "q_11",
+    "type": "multiple-choice",
+    "questionText": "Trưởng Lão khẳng định đạo đức nhân bản - nhân quả phù hợp với ai?",
+    "options": [
+      "Chỉ người theo Phật giáo",
+      "Mọi người có tín ngưỡng",
+      "Mọi người, dù có tôn giáo hay không"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Tài liệu nhấn mạnh rằng đạo đức này dành cho tất cả mọi người trên hành tinh, không phân biệt tôn giáo."
+  ,"image": "/quiz_images/quiz1/q11.jpeg"
+  },
+  {
+    "id": "q_12",
+    "type": "multiple-choice",
+    "questionText": "Tinh thần lớn nhất của bộ giáo án này là gì?",
+    "options": [
+      "Rèn luyện tâm linh để đạt giác ngộ",
+      "Giúp người tu trở thành A La Hán",
+      "Rèn luyện nhân cách, sống có tâm hồn cao thượng"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Giáo án nhằm giúp mọi người rèn luyện nhân cách, có tâm hồn cao thượng, sống bao dung, biết yêu thương và không gây khổ cho ai."
+  ,"image": "/quiz_images/quiz1/q12.jpeg"
+  },
+  {
+    "id": "q_13",
+    "type": "multiple-choice",
+    "questionText": "Trong Ngũ Giới, đức minh mẫn thuộc về loại đạo đức nào?",
+    "options": [
+      "Đạo đức bản thân",
+      "Đạo đức xã hội",
+      "Đạo đức gia đình"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Đức minh mẫn là tránh say sưa, nghiện ngập và các tệ nạn xã hội như rượu chè, cờ bạc, ma túy… Những hành vi này không chỉ gây hại cho bản thân mà còn ảnh hưởng tiêu cực đến gia đình, cộng đồng và trật tự xã hội, vì vậy đức minh mẫn thuộc về đạo đức xã hội."
+  ,"image": "/quiz_images/quiz1/q13.jpeg"
+  }
+]

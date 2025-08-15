@@ -1,0 +1,93 @@
+# Luồng xử lý kéo thả đáp án như bạn mong muốn sẽ như sau:
+
+Hiển thị các lựa chọn đáp án
+
+Ban đầu, tất cả đáp án đều hiển thị để người chơi có thể kéo.
+Kéo một đáp án vào vùng thả
+
+Khi người chơi kéo một đáp án vào vùng thả, đáp án đó sẽ được chọn cho câu hỏi.
+Đáp án vừa được chọn sẽ ẩn khỏi danh sách các lựa chọn (không thể kéo lại lần nữa).
+Thay đổi lựa chọn bằng cách kéo đáp án khác
+
+Nếu người chơi kéo một đáp án khác vào vùng thả, đáp án mới sẽ thay thế đáp án cũ.
+Đáp án cũ sẽ xuất hiện lại trong danh sách lựa chọn (có thể kéo lại nếu muốn).
+Đáp án mới sẽ ẩn đi khỏi danh sách lựa chọn.
+Luôn chỉ có một đáp án được chọn cho mỗi câu hỏi
+
+Vùng thả luôn hiển thị đáp án đã chọn (nếu có), hoặc ghi chú “Kéo lựa chọn vào đây!” nếu chưa chọn.
+Tóm tắt:
+
+Đáp án nào đã được chọn thì ẩn đi khỏi danh sách lựa chọn.
+Nếu thay đổi đáp án, đáp án cũ sẽ xuất hiện lại, đáp án mới sẽ ẩn đi.
+Chỉ một đáp án được chọn cho mỗi câu hỏi tại một thời điểm.
+
+# Luồng xử lý nút chuyển câu hỏi theo yêu cầu của bạn:
+
+Khi người chơi chọn đáp án cho một câu hỏi, hiển thị nút “Kiểm tra”.
+Người chơi bấm nút “Kiểm tra”, hệ thống sẽ:
+Hiển thị kết quả đúng/sai cho đáp án vừa chọn.
+Hiển thị phần giải thích cho câu hỏi đó.
+Hiện nút “Tiếp theo”.
+Người chơi bấm nút “Tiếp theo” để chuyển sang câu hỏi tiếp theo.
+Lặp lại các bước trên cho đến hết bộ câu hỏi.
+Khi hoàn thành tất cả câu hỏi, hiển thị tổng kết điểm hoặc kết quả cuối cùng.
+
+# Luồng xử lý thanh tiến độ cho trường hợp mỗi lần qua 1 câu hỏi:
+
+Khi bắt đầu quiz, xác định tổng số câu hỏi (totalQuestions).
+Lưu số thứ tự câu hỏi hiện tại (currentQuestionIndex), bắt đầu từ 0.
+Mỗi lần người chơi bấm “Tiếp theo”, tăng currentQuestionIndex lên 1.
+Truyền currentQuestionIndex và totalQuestions từ component cha (App.js) vào component con (QuizItem).
+Trong QuizItem, tính phần trăm tiến độ:
+ width = ((currentQuestionIndex + 1) / totalQuestions) * 100%
+Hiển thị số thứ tự câu hỏi ở giữa thanh:
+ (currentQuestionIndex + 1) / totalQuestions (ví dụ: 2/7)
+Khi chuyển câu hỏi, thanh tiến độ và số thứ tự tự động cập nhật theo giá trị mới.
+Kết quả: Thanh tiến độ luôn phản ánh đúng vị trí câu hỏi hiện tại so với tổng số câu, giúp người chơi dễ theo dõi quá trình làm quiz.
+
+# Dưới đây là một số đề xuất giúp UI/UX quiz kéo thả hấp dẫn và thân thiện hơn:
+
+Tăng khoảng cách giữa các đáp án
+
+Giúp người dùng dễ thao tác, đặc biệt trên thiết bị di động.
+Hiệu ứng động khi chọn đáp án
+
+Đáp án được chọn có thể đổi màu nền, viền hoặc phóng to nhẹ để nổi bật.
+Thanh tiến độ có hiệu ứng chuyển động mượt
+
+Thêm transition cho thanh tiến độ khi chuyển câu.
+Thông báo đúng/sai rõ ràng hơn
+
+Sử dụng icon (✔️/❌) hoặc màu sắc nổi bật cho kết quả.
+Nút “Tiếp theo” nổi bật, dễ bấm
+
+Có thể thêm hiệu ứng hover hoặc shadow cho nút.
+Tối ưu font và màu sắc cho người lớn tuổi
+
+Dùng màu nền dịu, font chữ đậm, tránh màu quá sáng hoặc quá nhạt.
+Thêm nút “Phóng to” hoặc “Tăng giảm cỡ chữ”
+
+Giúp người dùng tùy chỉnh kích thước chữ theo nhu cầu.
+Hiển thị số câu còn lại hoặc động lực
+
+Ví dụ: “Còn 4 câu nữa, bạn sắp hoàn thành!”
+Hướng dẫn ngắn gọn ở đầu quiz
+
+Giúp người mới dễ hiểu cách chơi.
+Tối ưu thao tác kéo thả
+
+Đảm bảo vùng kéo thả đủ lớn, dễ nhận biết, có hiệu ứng khi kéo vào.
+
+# Luồng hoạt động của đồng hồ ngày giờ realtime trong quiz:
+
+Khi component App được render, khởi tạo state dateTime là thời điểm hiện tại (new Date()).
+Sử dụng useEffect để tạo một timer (setInterval) chạy mỗi 1000ms (1 giây).
+Mỗi lần timer chạy, cập nhật state dateTime thành thời điểm mới (new Date()).
+Hàm getFormattedDateTime nhận đối tượng Date, trả về chuỗi ngày giờ định dạng:
+Giờ địa phương: “Thứ Năm, 18:13:48 - 14/08/2025”
+Giờ UTC: “Giờ UTC: 11:13:48 - 14/08/2025”
+Trong giao diện, lấy giá trị ngày giờ từ state dateTime, hiển thị ở đầu quiz và trong bảng tổng kết điểm.
+Khi người dùng chuyển câu hoặc hoàn thành quiz, đồng hồ vẫn tiếp tục cập nhật từng giây cho đến khi rời khỏi trang/quiz.
+Kết quả: Đồng hồ luôn hiển thị đúng thời gian hiện tại, tự động nhảy giây liên tục, giúp người dùng theo dõi thời gian làm quiz.
+
+# 

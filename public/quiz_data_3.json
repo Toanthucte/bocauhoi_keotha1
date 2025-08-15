@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Quán Thân Vô Thường",
+    "id": "q_1",
+    "type": "multiple-choice",
+    "questionText": "Vì sao phải thường xuyên quán thân là vô thường?",
+    "options": [
+      "Để thấy thân không quý giá như ta tưởng",
+      "Để có động lực làm việc nhiều hơn",
+      "Để tránh chán nản khi bệnh tật xảy ra"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Quán thân vô thường giúp ta thấy rõ sự thật: thân chỉ là một hợp tạm, dễ hoại, không đáng chấp thủ – từ đó giảm tham ái và chấp thân.",
+  "image": "/quiz_images/quiz3/q1.jpeg"
+  },
+  {
+    "id": "q_2",
+    "type": "multiple-choice",
+    "questionText": "Thân người gồm những gì?",
+    "options": [
+      "Một khối vững chắc, bền lâu",
+      "Máu, thịt, xương… do nhân duyên hòa hợp",
+      "Một linh hồn bất diệt"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Thân là ngũ uẩn giả hợp, không có thực thể cố định – do duyên sinh, nên cũng theo duyên diệt.",
+  "image": "/quiz_images/quiz3/q2.jpeg"
+  },
+  {
+    "id": "q_3",
+    "type": "multiple-choice",
+    "questionText": "Khi quán thân vô thường, cảm giác nào sau đây là đúng?",
+    "options": [
+      "Buồn vì thân chẳng còn giá trị gì",
+      "Thấy rõ thân này không phải “ta”, sinh lòng buông xả",
+      "Cố giữ thân bằng cách ăn uống, tập luyện thật nhiều"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Mục đích của quán thân vô thường là phá chấp ngã, thấy thân không thật, từ đó phát tâm buông xả và thanh tịnh hóa tâm.",
+  "image": "/quiz_images/quiz3/q3.jpeg"
+  },
+  {
+    "id": "q_4",
+    "type": "multiple-choice",
+    "questionText": "Sự thay đổi từng ngày của thân thể biểu hiện rõ nhất qua đâu?",
+    "options": [
+      "Dáng đi thẳng hay cong",
+      "Sự già yếu, bệnh tật và cái chết",
+      "Mùi hôi trên cơ thể"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Sinh – già – bệnh – chết là quy luật rõ ràng nhất của thân vô thường. Ai quán sâu điều này thì không còn mê lầm theo ngũ dục.",
+  "image": "/quiz_images/quiz3/q4.jpeg"
+  },
+  {
+    "id": "q_5",
+    "type": "multiple-choice",
+    "questionText": "Quán thân vô thường giúp ích gì trong tu hành?",
+    "options": [
+      "Khiến mình sợ chết",
+      "Tinh tấn tu hành vì biết thời gian còn lại ít",
+      "Làm mình yếu đuối, bi quan"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Người biết thân vô thường thì tỉnh giác và siêng tu. Không trì hoãn, không lười biếng, vì biết sinh mạng như hơi thở.",
+  "image": "/quiz_images/quiz3/q5.jpeg"
+  },
+  {
+    "id": "q_6",
+    "type": "multiple-choice",
+    "questionText": "Nếu thân vô thường, tại sao vẫn phải chăm sóc thân?",
+    "options": [
+      "Vì thân là phương tiện để tu tập",
+      "Vì thân sẽ trở thành Phật",
+      "Vì thân cần trang điểm mới tự tin"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Thân tuy vô thường nhưng còn sống thì còn tu. Vì vậy, cần giữ thân vừa đủ khỏe mạnh để thực hành đạo, không tham đắm, không buông lung.",
+  "image": "/quiz_images/quiz3/q6.jpeg"
+  },
+  {
+    "id": "q_7",
+    "type": "multiple-choice",
+    "questionText": "Khi người thân qua đời, người có trí quán thân vô thường sẽ thế nào?",
+    "options": [
+      "Khóc lóc đau khổ kéo dài",
+      "Bình tĩnh, nhận ra quy luật sinh diệt",
+      "Tìm cách cầu siêu để giữ linh hồn họ"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Quán vô thường giúp ta bình thản trước sanh tử, vì hiểu rõ đó là quy luật tự nhiên, không có gì phải dính mắc.",
+  "image": "/quiz_images/quiz3/q7.jpeg"
+  },
+  {
+    "id": "q_8",
+    "type": "multiple-choice",
+    "questionText": "Quán thân vô thường có tác dụng gì trong việc đối trị tham dục?",
+    "options": [
+      "Làm mình nhịn ăn",
+      "Làm tăng ham muốn trước khi thân hoại",
+      "Làm giảm sự luyến ái đối với thân mình và người khác"
+    ],
+    "correctAnswerIndex": 2,
+  "explanation": "Khi thấy rõ thân là vật hoại diệt, không sạch, không thật… thì tâm bớt đắm nhiễm vào dục, sắc, thân thể người khác.",
+  "image": "/quiz_images/quiz3/q8.jpeg"
+  },
+  {
+    "id": "q_9",
+    "type": "multiple-choice",
+    "questionText": "Vì sao Đức Phật dạy quán thân vô thường là pháp môn căn bản?",
+    "options": [
+      "Vì ai cũng sợ chết",
+      "Vì đó là bước đầu để phá ngã chấp",
+      "Vì muốn người tu ốm bớt"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Quán vô thường là trí tuệ nền tảng giúp phá chấp ngã – thấy thân không thật, từ đó dẫn đến vô ngã, giải thoát.",
+  "image": "/quiz_images/quiz3/q9.jpeg"
+  },
+  {
+    "id": "q_10",
+    "type": "multiple-choice",
+    "questionText": "Nếu không thấy thân vô thường, người tu sẽ dễ rơi vào lỗi gì?",
+    "options": [
+      "Ham tu hơn",
+      "Nghĩ rằng mình còn thời gian dài để tu sau",
+      "Vui vẻ sống từng ngày"
+    ],
+    "correctAnswerIndex": 1,
+  "explanation": "Không quán vô thường thì dễ phóng dật, trì hoãn tu hành, vì tưởng mình còn sống lâu. Đây là vô minh vi tế, khiến người tu mất đi cơ hội giải thoát.",
+  "image": "/quiz_images/quiz3/q10.jpeg"
+  }
+]

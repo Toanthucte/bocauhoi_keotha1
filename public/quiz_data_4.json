@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Lòng Yêu Thương Của Phật Giáo (Bài mở rộng)",
+    "id": "q_1",
+    "type": "multiple-choice",
+    "questionText": "Vì sao ly dục là điều kiện để phát triển lòng yêu thương chúng sinh?",
+    "options": [
+      "Giúp tâm không còn bị chi phối bởi ham muốn ích kỷ",
+      "Giúp giàu có và sung túc hơn",
+      "Giúp tránh mọi tiếp xúc với người khác"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Khi rời bỏ dục vọng, tâm trở nên thanh tịnh, dễ mở rộng lòng từ bi mà không bị lợi ích cá nhân chi phối.",
+  "image": "/quiz_images/quiz4/q1.jpeg"
+  },
+  {
+    "id": "q_3",
+    "type": "multiple-choice",
+    "questionText": "Vì sao cần lìa “sân” để yêu thương chúng sinh?",
+    "options": [
+      "Vì sân khiến tâm nóng nảy, dễ gây tổn hại cho người khác",
+      "Vì sân làm giảm trí nhớ",
+      "Vì sân khiến ta lười biếng"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Sân là sự giận dữ, oán hận – đối lập với lòng từ bi, nên cần được loại bỏ để yêu thương chân thật.",
+  "image": "/quiz_images/quiz4/q2.jpeg"
+  },
+  {
+    "id": "q_4",
+    "type": "multiple-choice",
+    "questionText": "Ví dụ nào minh họa đúng việc lìa “mạn” để yêu thương chúng sinh?",
+    "options": [
+      "Khiêm tốn học hỏi và tôn trọng mọi người, mọi loài, dù địa vị khác nhau",
+      "Chỉ kết bạn với người có học vị cao hơn mình",
+      "Tự cho mình hơn người nên không cần ai giúp đỡ"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Lìa mạn là bỏ thái độ kiêu ngạo, mở lòng tôn trọng và yêu thương tất cả.",
+  "image": "/quiz_images/quiz4/q3.jpeg"
+  },
+  {
+    "id": "q_5",
+    "type": "multiple-choice",
+    "questionText": "“Si” trong ngũ triền cái gây hại cho lòng yêu thương thế nào?",
+    "options": [
+      "Làm tâm mờ mịt, không thấy được nỗi khổ của chúng sinh",
+      "Khiến ta nói nhiều hơn",
+      "Làm ta mất ngủ"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Si là vô minh, không nhận ra nhân quả và sự đồng cảm, dẫn đến vô cảm trước khổ đau của muôn loài.",
+  "image": "/quiz_images/quiz4/q4.jpeg"
+  },
+  {
+    "id": "q_6",
+    "type": "multiple-choice",
+    "questionText": "Tri kiến nhân quả giúp rèn nhân cách “Không giết hại chúng sinh” như thế nào?",
+    "options": [
+      "Giúp hiểu rõ giết hại gây nghiệp khổ, từ đó tự nguyện tránh",
+      "Giúp biết cách xin tha tội khi đã giết hại",
+      "Giúp phân biệt con người và động vật"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Nhận thức nhân quả khiến ta ý thức hậu quả lâu dài của sát sinh, từ đó chủ động sống thiện.",
+  "image": "/quiz_images/quiz4/q5.jpeg"
+  },
+  {
+    "id": "q_7",
+    "type": "multiple-choice",
+    "questionText": "“Ngăn ác” trong thực hành nghĩa là gì?",
+    "options": [
+      "Không để ác pháp khởi sinh hoặc phát triển",
+      "Đợi ác pháp xảy ra rồi mới xử lý",
+      "Tránh xa mọi người để không làm hại ai"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Ngăn ác là hành động phòng ngừa từ sớm, không cho điều xấu phát sinh.",
+  "image": "/quiz_images/quiz4/q6.jpeg"
+  },
+  {
+    "id": "q_8",
+    "type": "multiple-choice",
+    "questionText": "Hành động nào sau đây là “diệt ác pháp”?",
+    "options": [
+      "Bỏ hẳn thói quen săn bắn để vui chơi",
+      "Giảm số lần ăn thịt động vật nhưng vẫn ăn",
+      "Chỉ săn bắt khi cần"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Diệt ác pháp là chấm dứt hoàn toàn hành vi xấu, không còn duy trì ở mức độ nào.",
+  "image": "/quiz_images/quiz4/q7.jpeg"
+  },
+  {
+    "id": "q_9",
+    "type": "multiple-choice",
+    "questionText": "“Sống trong thiện pháp” thể hiện rõ nhất ở hành động nào?",
+    "options": [
+      "Cứu trợ động vật bị bỏ rơi và nuôi dưỡng chúng",
+      "Chỉ giúp đỡ khi có lợi ích cho bản thân",
+      "Bỏ mặc động vật bị thương"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Sống trong thiện pháp là thực hành các việc lành, mang lợi ích và hạnh phúc đến cho chúng sinh.",
+  "image": "/quiz_images/quiz4/q8.jpeg"
+  },
+  {
+    "id": "q_10",
+    "type": "multiple-choice",
+    "questionText": "Vì sao ngăn ác, diệt ác, sống thiện pháp giúp rèn nhân cách “Không giết hại chúng sanh”?",
+    "options": [
+      "Vì làm như vậy sẽ dần hình thành thói quen từ bi và tránh nghiệp ác",
+      "Vì sẽ được người khác khen ngợi",
+      "Vì sẽ tránh được mọi khó khăn trong đời"
+    ],
+    "correctAnswerIndex": 0,
+  "explanation": "Khi luôn hướng tâm vào thiện pháp và tránh ác pháp, con người sẽ tự nhiên tránh việc sát sinh và nuôi dưỡng lòng từ bi.",
+  "image": "/quiz_images/quiz4/q9.jpeg"
+  }
+]
