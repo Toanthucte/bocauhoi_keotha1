@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bocauhoi_keotha1/static/css/main.b536e8c4.css",
+    "main.js": "/bocauhoi_keotha1/static/js/main.048c289a.js",
+    "index.html": "/bocauhoi_keotha1/index.html",
+    "main.b536e8c4.css.map": "/bocauhoi_keotha1/static/css/main.b536e8c4.css.map",
+    "main.048c289a.js.map": "/bocauhoi_keotha1/static/js/main.048c289a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b536e8c4.css",
+    "static/js/main.048c289a.js"
+  ]
+}
